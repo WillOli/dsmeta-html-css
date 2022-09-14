@@ -58,7 +58,8 @@ header{
 .dsmeta-container{
     width: 100%;
     max-width: 900px;
-    margin: 0 auto;
+    margin: 0 auto;    
+    padding: 40px;
 }
 
 /*para acionar o id chama com #   */
